@@ -1,4 +1,3 @@
-
 # 🙋 Привет, я Петровский Данил или Loquatsr School21
 
 <div id="paft" align="center">
