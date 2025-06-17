@@ -1,4 +1,4 @@
-# 🙋 Привет, я Петровский Данил или Loquatsr School21
+# 🙋 Привет, я Петровский Данил или loquatsr School21
 
 <div id="paft" align="center">
     <img src="paft.gif" width=2000%/><br>
